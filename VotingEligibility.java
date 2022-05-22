@@ -1,4 +1,4 @@
-// Cant be bothered to show you how to compile the program right now smh. May make a video on my youtube channel how to install Java and Configure it in an IDE For now. Just follow a youtube video on jow to install Java and an  IDE.I promise you if you it is quite simple:))
+// Cant be bothered to show you how to compile the program right now smh. May make a video on my youtube channel how to install Java and Configure it in an IDE For now. Just follow a youtube video on jow to install Java and an  IDE.I promise you this,  it is quite simple:))
 
 
 import java.util.Scanner;//Imports are used to import classes into project. In this case, we are importing the scanner class to read and input data
